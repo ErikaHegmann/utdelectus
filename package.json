@@ -1,0 +1,44 @@
+{
+  "name": "utdelectus",
+  "description": "Get the index of the first element in an array that returns truthy for the given value, using strict equality for comparisons.",
+  "version": "1.0.0",
+  "author": "LessieZemlak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErikaHegmann/utdelectus.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "array",
+    "enim",
+    "voluptas",
+    "id",
+    "js",
+    "placeat",
+    "utils"
+  ],
+  "verbiage": {
+    "related": {
+      "description": "Other object utils:",
+      "list": [
+        "array-every",
+        "array-slice",
+        "array-unique",
+        "filter-array",
+        "index-of"
+      ]
+    }
+  },
+  "homepage": "https://github.com/ErikaHegmann/utdelectus.git"
+}
